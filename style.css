@@ -1,0 +1,53 @@
+.back
+{
+    width: 100%;
+    background-color: black;
+    color: azure;
+}
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.containers
+{
+    padding: 20px;
+}
+.card {
+    margin: 5px;
+    text-align: center;
+  }
+  
+  .tab1cards{
+    display:flex;
+     flex-direction:row;
+     justify-content:space-between;
+   }
+.card-body{
+  color: black;
+}
+.footer
+  {
+    text-align: center;
+    color: aliceblue;
+    background-color: #2f2f2f;
+    position: relative;
+    margin: 0px;
+    padding: 15px;
+  }
+  
+  .social
+  {
+    
+    padding-bottom: 20px;
+    padding-left: 25px;
+    font-size: 30px;
+    color: inherit;
+    display: inline-block;
+  }
+  .footer ul li{
+list-style: none;
+display: inline-block;
+  }
